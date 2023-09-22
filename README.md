@@ -71,7 +71,7 @@ else:
 
 ## OUTPUT:
 ![268425327-c2308b42-eaeb-4b64-a126-758538b69335](https://github.com/MEENA155/rl-policy-evaluation/assets/94677128/f70b8df6-e172-4d86-84d3-be7b8e7fdd8c)
-![268425327-c2308b42-eaeb-4b64-a126-758538b69335](https://github.com/MEENA155/rl-policy-evaluation/assets/94677128/0b6ef704-fd30-4c16-8937-0036122af969)
+
 
 
 
