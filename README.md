@@ -72,8 +72,7 @@ else:
 ## OUTPUT:
 ![268425327-c2308b42-eaeb-4b64-a126-758538b69335](https://github.com/MEENA155/rl-policy-evaluation/assets/94677128/f70b8df6-e172-4d86-84d3-be7b8e7fdd8c)
 ![268425327-c2308b42-eaeb-4b64-a126-758538b69335](https://github.com/MEENA155/rl-policy-evaluation/assets/94677128/0b6ef704-fd30-4c16-8937-0036122af969)
-![268425327-c2308b42-eaeb-4b64-a126-758538b69335](https://github.com/MEENA155/rl-policy-evaluation/assets/94677128/629d8c4e-0014-4a19-91b8-b5824e54edc4)
-![268425327-c2308b42-eaeb-4b64-a126-758538b69335](https://github.com/MEENA155/rl-policy-evaluation/assets/94677128/3b1b164c-8c34-45f7-9dca-d8b479c37a51)
+
 
 
 ## RESULT:
